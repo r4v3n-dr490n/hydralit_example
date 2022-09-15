@@ -1,2 +1,2 @@
-hydralit==1.0.13
+hydralit==1.0.2
 streamlit==0.86.0
